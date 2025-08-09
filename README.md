@@ -15,7 +15,7 @@
 </h3>
 
 <div align="center">  
-  <img src="https://api.victims.bio/discord/user/discord-arts/github.com/hariumm/card" alt="discord" /> 
+  <img src="https://api.victims.bio/discord/user/discord-arts/632982949842649098/card" alt="discord" /> 
 </div>
 
 ## 📊 Stats
