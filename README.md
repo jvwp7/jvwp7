@@ -10,6 +10,14 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+<h3 align= 'center'>
+  Meu Perfil do Discord!
+</h3>
+
+<div align="center">  
+  <img src="https://api.victims.bio/discord/user/discord-arts/github.com/hariumm/card" alt="discord" /> 
+</div>
+
 ## 📊 Stats
 
 <div align="center">
