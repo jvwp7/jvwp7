@@ -26,5 +26,4 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jvwp7&theme=radical&hide_border=false"/>
 </div>
