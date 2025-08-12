@@ -10,9 +10,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<h3 align= 'center'>
 ## 🐱‍👤 Contato
-</h3>
 
 <div align="center">  
   <img src="https://api.victims.bio/discord/user/discord-arts/632982949842649098/card" alt="discord" /> 
