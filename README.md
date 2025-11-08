@@ -13,7 +13,7 @@
 ## 🐱‍👤 Contato
 
 <div align="center">  
-  <img src="https://api.victims.bio/discord/user/discord-arts/632982949842649098/card" alt="discord" /> 
+  <img src="https://api.victims.bio/discord/user/discord-arts/403387372554944533/card" alt="discord" /> 
 </div>
 
 ## 📊 Stats
